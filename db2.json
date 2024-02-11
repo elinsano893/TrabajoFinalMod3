@@ -1,0 +1,60 @@
+{
+  "estudiantes": [
+    {
+      "id": "34b4",
+      "nombre": "Rocio",
+      "apellido": "Guerra",
+      "edad": 20,
+      "carrera": "Ing Comercial"
+    },
+    {
+      "id": "f781",
+      "nombre": "Juan ",
+      "apellido": "Lopez",
+      "edad": 22,
+      "carrera": "Ing. Sistemas"
+    },
+    {
+      "id": "c3db",
+      "nombre": "Joaquin",
+      "apellido": "Escalante",
+      "edad": 25,
+      "carrera": "Arquitectura"
+    },
+    {
+      "id": "5907",
+      "nombre": "Juana",
+      "apellido": "Tellez",
+      "edad": 21,
+      "carrera": "Ing Comercial"
+    },
+    {
+      "id": "1949",
+      "nombre": "Maria",
+      "apellido": "Suarez",
+      "edad": 24,
+      "carrera": "Derecho"
+    },
+    {
+      "id": "f91b",
+      "nombre": "Jimena",
+      "apellido": "Velasco",
+      "edad": 30,
+      "carrera": "Ing Comercial"
+    },
+    {
+      "id": "dc58",
+      "nombre": "Lorena",
+      "apellido": "Pereira",
+      "edad": 24,
+      "carrera": "Ing. Sistemas"
+    },
+    {
+      "id": "1ed8",
+      "nombre": "Juan",
+      "apellido": "Perez",
+      "edad": 26,
+      "carrera": "Ing. Sistemas"
+    }
+  ]
+}
